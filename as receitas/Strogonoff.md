@@ -20,8 +20,6 @@
 
 - Batata palha e arroz para acompanhar
 
-
-
 ### Modo de Preparo
 
 - Fritar a carne
@@ -30,4 +28,4 @@
 
 - Colocar Creme de leite
 
-- Colocar Champignon por ultimo se for cru
+- Colocar Champignon por ultimo se for cru.
