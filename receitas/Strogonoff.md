@@ -1,45 +1,33 @@
-## de carne
+## Strogonoff de Carne
+
+### Ingredientes
+
+- Carne
+
+- Caldo de Carne
+
+- Molho de Tomate
+
+- Conhaque
+
+- Ketchup
+
+- Mostarda
+
+- Creme de leite
+
+- Champignon
+
+- Batata palha e arroz para acompanhar
 
 
 
-sdkjfshjkdfas
+### Modo de Preparo
 
-dfas
+- Fritar a carne
 
-df
+- Deglaçar com o conhaque, adicionar o molho de tomate, ketchup e mostarda.
 
-asdf
+- Colocar Creme de leite
 
-as
-
-dfasdf
-
-asdf
-
-- sdfs
-
-- dfs
-
-- dfs
-
-- df
-
-- sdf
-
-- sd
-
-- f
-
-- [x] dsfsdf
-
-- [ ] sdf
-
-- [ ] sdf
-
-- [ ] sdfs
-
-- [ ] dfs
-
-- [ ] dfs
-
-- [ ] 
+- Colocar Champignon por ultimo se for cru
